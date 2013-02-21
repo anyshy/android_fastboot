@@ -1,0 +1,2 @@
+[dep libs]
+zlib        --        apt-get install zlib1g-dev
